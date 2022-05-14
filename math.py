@@ -1,6 +1,6 @@
 #I need to implement
 def add(x,y):
-return None
+return x+y
 
 #myfriend will implement
 def mult(x,y):
